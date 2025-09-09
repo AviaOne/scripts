@@ -1,8 +1,8 @@
-# thanks to [MAXZONDER](https://github.com/maxzonder/mzscripts/tree/main/restake_report)
+thanks to [MAXZONDER](https://github.com/maxzonder/mzscripts/tree/main/restake_report)
 This is a fork with improvements
-# =============================================================================
+=============================================================================
 # REStake Monitoring Script with Telegram Notifications
-# =============================================================================
+=============================================================================
 [![N|Solid](https://avatars.githubusercontent.com/u/105792641?v=4)](https://aviaone.com)
 
 #Install
