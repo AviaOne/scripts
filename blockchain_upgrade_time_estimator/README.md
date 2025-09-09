@@ -3,7 +3,7 @@ This script is working perfectly with all blockchains from Cosmos Ecosytem, we d
 ## Some explorer estimate block time with a fix value of 10,000 blocks per 24 hours. 
 (Ping.pub explorer works like this, correct me if I'm wrong...) then the estimate time to calculte an upgrade is something wrong for this reason...
 
-## This script will estimate the time dynamically, to provide more precision, it will search for a time per second and per 24 hours.
+## This script will estimate the time dynamically, and find how many blocks are producing every 24 hours to provide more precision.
 
 |                     | Dynamic Script (Your Script)             | Static Script (Fixed 10,000 Blocks)                 |
 |---------------------|----------------------------------------|-----------------------------------------------------|
