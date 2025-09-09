@@ -1,5 +1,5 @@
 # BLOCKCHAIN UPGRADE TIME ESTIMATOR<br>by AviaOne.com 
-This script is working perfectly with blockchain from Cosmos Ecosytem, we did not test it from an other ecosystem...
+This script is working perfectly with all blockchains from Cosmos Ecosytem, we did not test it from an other ecosystem...
 ## Some explorer estimate block time with a fix value of 10,000 blocks per 24 hours
 ## Ping.pub explorer works like this, correct me if I'm wrong
 
