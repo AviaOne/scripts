@@ -3,6 +3,7 @@ This is a fork with improvements
 
 # REStake Monitoring Script with Telegram Notifications
 ## _by AviaOne.com_
+This bash script works with chains using another token for their fees, like AtomOne/Photon
 
 # Install
 ## Download to your server
