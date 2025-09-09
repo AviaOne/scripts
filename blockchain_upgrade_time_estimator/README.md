@@ -22,7 +22,7 @@ Install the script inside the folder.
 ```sh
 wget -O calcutate_update_time_blocks.sh https://raw.githubusercontent.com/aviaone/scripts/main/blockchain_upgrade_time_estimator/calcutate_update_time_blocks.sh
 ```
-## Add your add your personalized settings
+## Add your personalized settings
 ![image](https://github.com/AviaOne/pictures/blob/main/screenshot.2025-09-09%20(8).jpg?raw=true)
 
 ## Give the permission to your file.
