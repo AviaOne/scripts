@@ -48,8 +48,15 @@ echo -e "\xF0\x9F\x93\xAB <b>RESTAKE</b> | $(date +'%a %d %b %Y %T %Z')\n" > $FI
 # =============================================================================
 # Execute REStake and process output line by line in real-time
 # This replaces the original journalctl approach with direct npm execution
+# =============================================================================
+# IF Restake is working directly with NPM
+# =============================================================================
 cd restake
 npm run autostake |
+# =============================================================================
+# IF Restake is working with SERVICES
+# journalctl -u restake --since today -o cat --no-pager |
+# =============================================================================
 while IFS="" read -r line || [ -n "$line" ]
 do
   # Clean timestamp from beginning of each log line
