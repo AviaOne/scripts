@@ -9,4 +9,4 @@
 | Average block time  | 5.685 seconds<br>(calculated over 15,197 blocks) | 5.9 seconds<br>(fixed, assumed over 10,000 blocks)     |
 | Estimated total time| 568,500 seconds<br>= 6 days 13 hours 35 min| 590,000 seconds<br>= 6 days 19 hours 26 min             |
 | Difference          | —                                      | +21,500 seconds<br>= +5 hours 51 minutes                 |
-###  <span style="color: red;">The difference is huge over 100,000 blocks, with an inaccuracy of 5 hours and 51 minutes</span>
+<span style="color: red;">The difference is huge over 100,000 blocks, with an inaccuracy of 5 hours and 51 minutes</span>
