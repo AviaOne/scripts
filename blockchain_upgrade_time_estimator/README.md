@@ -10,4 +10,4 @@
 | Estimated total time| 568,500 seconds<br>= 6 days 13 hours 35 min| 590,000 seconds<br>= 6 days 19 hours 26 min             |
 | Difference          | —                                      | +21,500 seconds<br>= +5 hours 51 minutes                 |
 
-<h2><span style="color: red;">The difference is huge over 100,000 blocks, with an inaccuracy of 5 hours and 51 minutes</span></h2>
+## The difference is huge over 100,000 blocks, with an inaccuracy of 5 hours and 51 minutes
