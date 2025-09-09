@@ -54,7 +54,7 @@ echo -e "\xF0\x9F\x93\xAB <b>RESTAKE</b> | $(date +'%a %d %b %Y %T %Z')\n" > $FI
 cd restake
 npm run autostake |
 # =============================================================================
-# IF Restake is working with SERVICES
+# IF Restake is working with SERVICES  /etc/systemd/system
 # journalctl -u restake --since today -o cat --no-pager |
 # =============================================================================
 while IFS="" read -r line || [ -n "$line" ]
