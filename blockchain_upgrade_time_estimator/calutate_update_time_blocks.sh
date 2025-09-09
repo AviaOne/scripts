@@ -2,6 +2,7 @@
 
 #==============================================================================
 # BLOCKCHAIN UPGRADE TIME ESTIMATOR
+# by AviaOne.com
 #==============================================================================
 # This script estimates when a blockchain upgrade will occur based on average
 # block production times. It analyzes recent blocks to calculate timing and
