@@ -1,6 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # REStake Monitoring Script with Telegram Notifications
+# by AviaOne.com
 # =============================================================================
 # This script monitors REStake autostaking operations by parsing live output
 # from npm run autostake and sends formatted reports via Telegram.
