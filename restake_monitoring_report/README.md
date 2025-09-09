@@ -48,3 +48,8 @@ bash restake_report.sh
 [How to Create and Set Up a Cron Job in Linux](https://phoenixnap.com/kb/set-up-cron-job-linux)
 
 # This is the result displayed directly in your Telegram
+![image](https://raw.githubusercontent.com/AviaOne/pictures/refs/heads/main/screenshot.2025-09-09.jpg)
+
+## Error are displayed like this
+![image](https://github.com/AviaOne/pictures/blob/main/screenshot.2025-09-09%20(4).jpg?raw=true)
+![image](https://github.com/AviaOne/pictures/blob/main/screenshot.2025-09-09%20(3).jpg?raw=true)
