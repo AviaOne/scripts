@@ -29,7 +29,7 @@ wget -O calcutate_update_time_blocks.sh https://raw.githubusercontent.com/aviaon
 
 ## Give the permission to your file.
 ```sh
-chmod +x /calcutate_update_time_blocks.sh
+chmod +x calcutate_update_time_blocks.sh
 ```
 
 ## Now test it :rocket:
