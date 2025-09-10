@@ -34,7 +34,7 @@ chmod +x calcutate_update_time_blocks.sh
 
 ## Now test it :rocket:
 ```sh
-calcutate_update_time_blocks.sh
+bash calcutate_update_time_blocks.sh
 ```
 ## You will see this result :
 ![image](https://github.com/AviaOne/pictures/blob/main/screenshot.2025-09-09%20(9).jpg?raw=true?raw=true)
