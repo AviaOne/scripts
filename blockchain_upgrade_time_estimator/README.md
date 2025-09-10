@@ -32,7 +32,7 @@ wget -O calcutate_update_time_blocks.sh https://raw.githubusercontent.com/aviaon
 chmod +x calcutate_update_time_blocks.sh
 ```
 
-## add packages/ dependency if it's not done already.
+## add packages/dependencies if not already done.
 ```sh
 sudo apt install -y curl jq bc
 ```
