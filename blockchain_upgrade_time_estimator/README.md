@@ -32,6 +32,19 @@ wget -O calcutate_update_time_blocks.sh https://raw.githubusercontent.com/aviaon
 chmod +x calcutate_update_time_blocks.sh
 ```
 
+## add packages/ dependency if it's not done already.
+```sh
+sudo apt install -y curl jq bc
+```
+curl
+Role: Performs HTTP requests to blockchain RPC endpoints
+
+jq
+Role: Parse and manipulate JSON data returned by blockchain APIs
+
+bc
+Role: Command-line calculator for precise mathematical calculations
+
 ## Now test it :rocket:
 ```sh
 bash calcutate_update_time_blocks.sh
