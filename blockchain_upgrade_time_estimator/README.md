@@ -5,14 +5,14 @@ This script is working perfectly with all blockchains from Cosmos Ecosytem, we d
 
 ## This script will dynamically estimate the number of blocks produced every 24 hours and provide a more accurate time estimate with this method.
 
-|   ATOMONE                  | Dynamic Script (Your Script)             | Static Script (Fixed 10,000 Blocks)                 |
+|   ATOMONE                  | Dynamic Script (this Script)             | Static Script (Fixed 10,000 Blocks)                 |
 |---------------------|----------------------------------------|-----------------------------------------------------|
 | Average block time  | 5.685 seconds<br>(calculated over 15,197 blocks) | 5.9 seconds<br>(fixed, assumed over 10,000 blocks)     |
 | Estimated total time| 568,500 seconds<br>= 6 days 13 hours 35 min| 590,000 seconds<br>= 6 days 19 hours 26 min             |
 | Difference          | —                                      | +21,500 seconds<br>= +5 hours 51 minutes                 |
 ###  We compared it with the AtomOne blockchain and calculated the time required to produce 100,000 blocks.
 ### The difference is enormous over 100,000 blocks!
-### Using a static method of 10,000 blocks every 24 hours, the inaccuracy compared to our script is **5 hours and 51 minutes**.
+### Using a static method of 10,000 blocks every 24 hours, the inaccuracy compared to our script is 5 hours and 51 minutes.
 
 # How to use this script to estimate time dynamically?
 ## Install this script inside your server.
