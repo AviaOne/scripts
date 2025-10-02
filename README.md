@@ -1,2 +1,2 @@
 # scripts
-Select on folder
+Select one folder in this directory
